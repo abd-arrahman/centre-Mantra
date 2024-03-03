@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centre Mantra</title>
+    <style>
+        /* Include your styles here or link to an external stylesheet */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #516E6C ;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            padding: 2em;
+            background-color:#2CD3A1;
+            color: #fff;
+        }
+
+        section {
+            padding: 5em;
+        }
+
+        footer {
+            padding: 1em;
+            background-color: #2CD3A1;
+            color: ;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        /* Add some styles for the logo */
+        #logo {
+            width: 100px; /* Adjust the width as needed */
+            height: auto; /* Maintain the aspect ratio */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img id="logo" src="C:/Users/maaaaajd/Downloads/mantra.jpg" alt=" ">
+        <h1>Centre Mantra</h1>
+        <!-- You can include the ASCII art logo here if you want -->
+        <nav>
+            <a href="">Home</a> | <a href="https://www.facebook.com/profile.php?id=100071819350336&__tn__=-]C">Services</a> | <a href="https://www.facebook.com/profile.php?id=100071819350336&__tn__=-]C">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>مرحبا بكم في مركز مانترا</h2>
+        <p>
+           استمتع بالاسترخاء وتجديد النشاط في مركز مانترا. تم تصميم خدمات التدليك لدينا لمساعدتك على الاسترخاء وإيجاد التوازن في حياتك.
+        </p>
+    </section>
+
+    <footer>
+        <p>اتصل بنا على صفحتنا على الفيسبوك:</p>
+        <nav>
+        <a href="https://www.facebook.com/profile.php?id=100071819350336&__tn__=-]C">centre mantra</a>
+
+        </nav>
+    </footer>
+</body>
+</html>
